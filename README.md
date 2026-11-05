@@ -1,6 +1,6 @@
-# ValMyHeart · versiones
+# MyMochi · versiones
 
-Aquí solo se publican las versiones firmadas (APK) de la app ValMyHeart para Android.
+Aquí solo se publican las versiones firmadas (APK) de la app MyMochi para Android.
 El código fuente es privado.
 
 ## Cómo instalar o actualizar
